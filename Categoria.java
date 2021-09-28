@@ -10,3 +10,4 @@ public enum Categoria {
   public String getCategoriaFilme(){
     return this.categoriaFilme;
   }
+}
